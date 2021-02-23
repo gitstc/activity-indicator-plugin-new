@@ -1,6 +1,4 @@
 {
-  "_from": "git+https://github.com/gitstc/activity-indicator-plugin-new.git",
-  "_id": "activity-indicator-plugin-new@0.0.1",
   "author": "",
   "bundleDependencies": false,
   "cordova": {
