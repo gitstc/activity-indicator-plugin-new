@@ -35,7 +35,7 @@
 	<platform name="android">
 		<config-file target="res/xml/config.xml" parent="/*">
 			<feature name="ActivityIndicator" >
-				<param name="android-package" value="activity-indicator-plugin-new"/>
+				<param name="android-package" value="org.apache.cordova.plugin.ActivityIndicator"/>
 			</feature>
 		</config-file>
 		<source-file src="src/android/ActivityIndicator.java" target-dir="src/org/apache/cordova/plugin" />
